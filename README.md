@@ -1,7 +1,5 @@
-### Hi there 👋
 
-
-# Hi 🎉 Welcome to sunyuan's Github Homepage!
+# Hi 🎉 Welcome to sunyuan's Github Homepage  👋!
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github、Hello%20World!&font=Roboto" align = "center" />
 
