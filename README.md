@@ -17,17 +17,17 @@
 
 
 <div align="center">
-<p>`:heart:`我是子小远。`:heart:`</p>
+<p>:heart:我是子小远。:heart:</p>
 <p>非985非211非双一流，</p>
 <p>非著名非重点，</p>
 <p>比一本还多一本的，</p>
 <p>本科<s>在读</s>。</p>
-<p>`:office:`现BASE帝都。</p>
-<p>:computer:`非大厂后端开发。</p>
-<p>`:camera:`喜欢拍照，拍的一般。</p>
-<p>`:running:`喜欢跑步，跑的不快。</p>
-<p>`:hammer:`不谈生活，代码是兴趣。</p>
-<p>`:stuck_out_tongue_winking_eye:`梦想是成为一个会写一点代码的摄影师。`:stuck_out_tongue_winking_eye:`</p>
+<p>:office:现BASE:cn:帝都。</p>
+<p>:computer:非大厂后端开发。</p>
+<p>:camera:喜欢拍照，拍的一般。</p>
+<p>:running:喜欢跑步，跑的不快。</p>
+<p>:hammer:不谈生活，代码是兴趣。</p>
+<p>:stuck_out_tongue_winking_eye:梦想是成为一个会写一点代码的摄影师。:stuck_out_tongue_winking_eye:</p>
 </div>
 
 
