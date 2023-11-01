@@ -22,8 +22,7 @@
 <p>非著名非重点，</p>
 <p>比一本还多一本的，</p>
 <p>本科<s>在读</s>。</p>
-<p>:office:现BASE:cn:帝都。</p>
-<p>:computer:非大厂后端开发。</p>
+<p>:computer:现非大厂后端开发。</p>
 <p>:camera:喜欢拍照，拍的一般。</p>
 <p>:running:喜欢跑步，跑的不快。</p>
 <p>:hammer:不谈生活，代码是兴趣。</p>
