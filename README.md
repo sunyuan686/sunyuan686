@@ -27,20 +27,7 @@
 </div>
 
 
-<!--
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sunyuan686&show_icons=true&count_private=true)
--->
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=sunyuan686&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyuan686&hide_title=true&hide_border=true&layout=compact" />
-
-![CSDN Stats](https://stats.justsong.cn/api/csdn?id=qq_45796667&)
-![Leecode Stats](https://stats.justsong.cn/api/leetcode?username=sunyuan686&cn=true)
-
-
-<!--
-![](https://activity-graph.herokuapp.com/graph?username=sunyuan686&theme=github)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunyuan686&layout=compact)
--->
 
 <!--
 **sunyuan686/sunyuan686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,4 +42,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sunyuan686&show_icons=true&count_private=true)
+-->
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=sunyuan686&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyuan686&hide_title=true&hide_border=true&layout=compact" />
+
+![CSDN Stats](https://stats.justsong.cn/api/csdn?id=qq_45796667&)
+![Leecode Stats](https://stats.justsong.cn/api/leetcode?username=sunyuan686&cn=true)
+
+
+<!--
+![](https://activity-graph.herokuapp.com/graph?username=sunyuan686&theme=github)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunyuan686&layout=compact)
+-->
 -->
